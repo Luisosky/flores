@@ -78,7 +78,7 @@ body {
 }
 .flower--2 {
   left: 50%;
-  transform: rotate(20deg);
+  transform: rotate(18deg);
   -webkit-animation: moving-flower-2 4s linear infinite;
           animation: moving-flower-2 4s linear infinite;
 }
